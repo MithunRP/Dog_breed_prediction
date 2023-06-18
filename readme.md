@@ -1,4 +1,4 @@
-**Step to run application:**<br>
+**Steps to run application:**<br>
 **Step 1**: Create the copy of the project.<br>
 **Step 2**: Open command prompt and change your current path<br>
 to folder where you can find 'app.py' file.<br>
